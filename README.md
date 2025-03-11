@@ -4,8 +4,8 @@
 Este laboratorio muestra cómo configurar enrutamiento estático en routers para conectar múltiples redes sin utilizar protocolos dinámicos.  
 
 ## 🖼️ Topología  
-![Topología](ruta/a/la/imagen.png)  
-*(Puedes subir la imagen al repositorio y referenciarla aquí.)*  
+![Topología](TopologiaEE.PNG)  
+  
 
 ## ⚙️ Configuración  
 Pasos para configurar el enrutamiento estático en Cisco IOS:  
