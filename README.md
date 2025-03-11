@@ -15,5 +15,8 @@ Pasos para configurar el enrutamiento estático en Cisco IOS:
 Router(config)# interface GigabitEthernet0/0
 Router(config-if)# ip address 192.168.1.1 255.255.255.0
 Router(config-if)# no shutdown
-2. **Agregar rutas estaticas**
+```
+2. **Agregar rutas estáticas**
+```bash
 Router(config)# ip route 192.168.2.0 255.255.255.0 192.168.1.2
+
